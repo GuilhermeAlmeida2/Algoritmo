@@ -1,0 +1,49 @@
+Busca Linear: 1600000
+Busca Binária: 42
+Quantidade de trocas: 3200669881950
+Tempo de ordenação: 2781636ms
+
+Busca Linear: 1600000
+Busca Binária: 40
+Quantidade de trocas: 3201631201325
+Tempo de ordenação: 2910568ms
+
+Busca Linear: 1600000
+Busca Binária: 40
+Quantidade de trocas: 3200588065980
+Tempo de ordenação: 1953716ms
+
+Busca Linear: 1600000
+Busca Binária: 40
+Quantidade de trocas: 3200465107971
+Tempo de ordenação: 1949281ms
+
+Busca Linear: 1600000
+Busca Binária: 42
+Quantidade de trocas: 3199154485254
+Tempo de ordenação: 1954470ms
+
+Busca Linear: 1600000
+Busca Binária: 42
+Quantidade de trocas: 3200958278409
+Tempo de ordenação: 2004448ms
+
+Busca Linear: 1600000
+Busca Binária: 41
+Quantidade de trocas: 3200357641002
+Tempo de ordenação: 1973694ms
+
+Busca Linear: 1600000
+Busca Binária: 40
+Quantidade de trocas: 3201250481350
+Tempo de ordenação: 2012989ms
+
+Busca Linear: 1600000
+Busca Binária: 43
+Quantidade de trocas: 3200934136798
+Tempo de ordenação: 2007132ms
+
+Busca Linear: 1600000
+Busca Binária: 41
+Quantidade de trocas: 3200452543981
+Tempo de ordenação: 1989253ms
